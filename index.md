@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hello! I'm Kelli Muldoon a Computer Science Student at Oregon State'
+landing-title: 'Hello! I'm Kelli Muldoon'
 description: null
 image: null
 author: null
