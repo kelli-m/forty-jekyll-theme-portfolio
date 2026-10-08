@@ -1,13 +1,30 @@
+
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Raspberry Pi DNS Filtering
+description: Network-wide DNS filtering using Pi-hole, Linux, and DNS.
 image: assets/images/pic11.jpg
 nav-menu: true
+show_tile: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+I configured a Raspberry Pi as a network-wide DNS filtering server using Pi-hole.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+This project gave me hands-on experience with Linux, DNS, networking, and managing custom filtering rules.
+
+## What I Built
+
+- Configured a Raspberry Pi as a network-wide DNS filtering server
+- Installed and configured Pi-hole
+- Created custom filtering rules to manage network traffic
+- Used Linux and SSH to configure and manage the system
+
+## Technologies
+
+**Raspberry Pi · Pi-hole · Linux · DNS · Networking**
+
+## What I Learned
+
+This project helped me better understand how DNS works within a network and how network-level filtering can be used to manage traffic. It also gave me practical experience configuring a Linux-based system.
