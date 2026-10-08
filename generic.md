@@ -3,7 +3,7 @@
 layout: post
 title: Raspberry Pi DNS Filtering
 description: Network-wide DNS filtering using Pi-hole, Linux, and DNS.
-image: assets/images/pi.jpg
+image: /forty-jekyll-theme-portfolio/assets/images/pi.jpg
 nav-menu: true
 show_tile: true
 ---
