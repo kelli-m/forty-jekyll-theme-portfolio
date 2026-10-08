@@ -1,11 +1,11 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+title: Kelli Muldoon
+subtitle: Computer Science Student | Cybersecurity • IT • UI Development
+email: Muldoonk@gmail.com
+description: Computer Science student interested in cybersecurity, IT, networking, UI development, and data.
+baseurl: "/forty-jekyll-theme-portfolio" # the subpath of your site, e.g. /blog
+url: "https://kelli-m.github.io" # the base hostname & protocol for your site
+author: Kelli Muldoon
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: ttps://github.com/kelli-m
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/kelli-m-73201a337/
+  Twitter:
   Facebook:
   Slack:
 
